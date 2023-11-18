@@ -71,7 +71,7 @@ R Code
 <!-- CONTACT -->
 ## Contact
 
-Vafaeeshaarbaf - @gmail 
+Vafaeeshaarbaf@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
