@@ -21,44 +21,45 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Part A - Downloading and Analyzing and Quality Control of E. Coli
-WGS Data</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#about-the-project">Part B - Denovo Genome Assembly</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-	<li>
-      <a href="#about-the-project">Part C - Mapping & variant calling</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
 
+<h1>Square Root Approximation in R</h1>
 
+This R script provides a simple and efficient function, My_SQRT, for approximating the square root of a given number using the Newton-Raphson method. The algorithm iteratively refines the estimate until convergence, providing a fast and accurate result.
 
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
 
-This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant callingIn this project, you will learn how to analyze short-read and long-read sequencing data,
-perform qualitycontrol, create genome assemblies, and conduct read mapping and
-variant calling. 
+<h1>Features:</h1>
+<ol>
+	<li>
+		Implemented in R, a powerful statistical computing language.
+	</li>
+	<li>
+		Utilizes the Newton-Raphson method for square root approximation.
+	</li>
+	<li>
+		Efficient and concise code for numerical computation.
+	</li>
+</ol>
+
+<h1>How to Use:</h1>
+<ul>
+	<li>
+		Clone the repository to your local machine.
+	</li>
+	<li>
+		Source the script in your R environment.
+	</li>
+	<li>
+		Call the My_SQRT function with your desired input.
+	</li>
+</ul>
+Feel free to explore, modify, and integrate this code into your projects. Contributions and feedback are welcome!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Languages Used
 
-Linux Commands and R Packages 
+R Code 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -67,35 +68,12 @@ Linux Commands and R Packages
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Prerequisites
-
-
-* sra
-  sh
-  prefetch SRR8185316.sra
-  prefetch  SRR10538956.sra
-  
-* fastq-dump
-  sh
-  fastq-dump SRR8185316.sra
-  fastq-dump  SRR10538956.sra
- 
- 
-  
-### Installation
-
-Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you want.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Fereshteh Noroozi - @LinkedIn 
+Vafaeeshaarbaf - @gmail 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
