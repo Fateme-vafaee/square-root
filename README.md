@@ -1,5 +1,3 @@
-# 
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -29,7 +27,7 @@ This R script provides a simple and efficient function, My_SQRT, for approximati
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
 
-<h1>Features:</h1>
+## Features:
 <ol>
 	<li>
 		Implemented in R, a powerful statistical computing language.
@@ -42,7 +40,7 @@ This R script provides a simple and efficient function, My_SQRT, for approximati
 	</li>
 </ol>
 
-<h1>How to Use:</h1>
+## How to Use:
 <ul>
 	<li>
 		Clone the repository to your local machine.
